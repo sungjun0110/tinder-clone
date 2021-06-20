@@ -7,7 +7,7 @@ React, MongoDB, Express, Node.js
 ## About The Project
 This project is built to execute MERN stack. An user authentication is added to keep the to-do lists private. 
 <br>Demo: https://sungjun0110.github.io/tinder-clone/
-<br>Back-end Repository: 
+<br>Back-end Repository: https://github.com/sungjun0110/tinder-clone-backend
 
 ## Todo
 - [ ] Add More Funtionality
